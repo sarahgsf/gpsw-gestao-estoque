@@ -48,19 +48,30 @@ Implementação do módulo de usuários e controle de acesso.
 
 ## 🧱 Estrutura do Projeto
 
-gpsw-gestao-estoque/  
-├── [📦 backend](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/backend) 
-│ ├── Código fonte do servidor (API REST)
-│ ├── Spring Boot + Spring Security + MySQL
-│ └── Implementa cadastro, login, autenticação JWT e controle de usuários
-├── [💻 frontend](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/frontend) 
-│ ├── Interface React (HTML, CSS, JS)
-│ ├── Telas de login, cadastro e dashboards futuros
-│ └── Comunicação com a API via requisições HTTP
-│
-├── [📚 docs](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/docs)
-│ ├── Plano de Entregas (PDF)
-│ ├── Plano de Métricas (PDF)
-│ └── Relatórios e documentações do projeto
-│
-└── [📄 README.md](https://github.com/sarahgsf/gpsw-gestao-estoque/blob/main/README.md) → Descrição e informações gerais do projeto  
+📁 **Organização do Repositório:**
+
+- [📦 backend](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/backend)  
+  ↳ Código fonte do servidor (API REST)  
+  ↳ Spring Boot + Spring Security + MySQL  
+  ↳ Implementa cadastro, login, autenticação JWT e controle de usuários  
+
+- [💻 frontend](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/frontend)  
+  ↳ Interface React (HTML, CSS, JS)  
+  ↳ Telas de login, cadastro e dashboards futuros  
+  ↳ Comunicação com a API via requisições HTTP  
+
+- [📚 docs](https://github.com/sarahgsf/gpsw-gestao-estoque/tree/main/docs)  
+  ↳ Plano de Entregas (PDF)  
+  ↳ Plano de Métricas (PDF)  
+  ↳ Relatórios e documentações do projeto  
+
+- [📄 README.md](https://github.com/sarahgsf/gpsw-gestao-estoque/blob/main/README.md)  
+  ↳ Descrição e informações gerais do projeto
+-----------------------------------------------------------------------------------------------
+
+  ## 👥 Colaboradores
+
+| Nome | Função |
+|------|---------|
+| Sarah Frossard | Desenvolvedora |
+| Daniela Yukari | Desenvolvedora |
