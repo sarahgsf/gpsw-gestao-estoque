@@ -75,3 +75,5 @@ Implementação do módulo de usuários e controle de acesso.
 |------|---------|
 | Sarah Frossard | Desenvolvedora |
 | Daniela Yukari | Desenvolvedora |
+| Alessandra Moreno | Desenvolvedora |
+| Gabriel Valentin | Desenvolvedor |
